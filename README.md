@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Mahmoud Akram
 
-<!--
-**dev-mahmoudakram/dev-mahmoudakram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer • WordPress Specialist • Vibe Coder @ Izam
 
-Here are some ideas to get you started:
+Building fast, scalable and user-focused web applications with Laravel, Next.js and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 Vibe Coder @ Izam
+- 💻 Full Stack Developer
+- 🌐 WordPress Specialist
+- ⚡ Laravel + Next.js
+- 🌱 Learning SEO & System Design
+
+---
+
+## ⚒ Tech Stack
+
+Replace with:
+https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,php,laravel,nodejs,mysql,mongodb,git,github,vscode,docker,figma,postman
+
+---
+
+## 🚀 Featured Projects
+
+- Izam Website Rebuild
+- Engineering Invoice System
+- Personal Portfolio
+- WordPress Business Websites
+
+---
+
+## 📈 GitHub Analytics
+
+Replace YOUR_USERNAME:
+
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
+
+https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
+
+https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4
+
+---
+
+## 🤝 Connect
+
+- LinkedIn
+- Portfolio
+- Email
