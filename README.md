@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Akram</h1>
 
-<h3 align="center">Full-Stack Developer • WordPress Specialist • Vibe Coder @ Izam</h3>
+<h3 align="center">Full-Stack Developer • WordPress Specialist • Software Engineer @ Izam</h3>
 
 <p align="center">
   Building fast, SEO-friendly and user-focused web applications with Laravel, Next.js and modern web technologies.
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Vibe Coder at **Izam inc.**
+- 💼 Software Engineer at **Izam inc.**
 - 📍 Based in **Cairo, Egypt**
 - 💻 Full-stack developer working mainly with **Laravel** and **Next.js + TypeScript**
 - 🌐 WordPress and Shopify theme development for business websites
